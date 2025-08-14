@@ -96,9 +96,9 @@ a {
   }
 }
 
-/* Experience Section */
+/* Experience Section */ 
 
-/* .ex {
+.ex {
   width: 900px;
 }
 
@@ -112,7 +112,7 @@ a {
   width: 800px;
   border-radius: 1px solid yellow;
   box-shadow: var(--box-shadow);
-} */
+}
 
 /* Skills Section */
 
